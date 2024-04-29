@@ -1,0 +1,18 @@
+1
+0.1
+nap_gellert_e
+C:\Users\Admin\Sumo\nap_gellert_e
+    routeId            loc        tripId  ... trafficScale  numOfStops     emission
+0       330  nap_gellert_e  C622152254.0  ...          0.0           3   440.730048
+1       330  nap_gellert_e  C622155141.0  ...          0.0           3   412.522497
+2      9722  nap_gellert_e    C6305325.0  ...          0.0           4   649.552646
+3      2400  nap_gellert_e   C63598134.0  ...          0.0           2   282.611518
+4      2400  nap_gellert_e    C6359838.0  ...          0.0           2   255.707142
+..      ...            ...           ...  ...          ...         ...          ...
+479    0085  nap_gellert_e   C78245617.0  ...          0.1          19  2846.921169
+480    0085  nap_gellert_e   C78245945.0  ...          0.1          18  4363.691776
+481    1335  nap_gellert_e   C78257148.0  ...          0.1           4  1000.195321
+482    1335  nap_gellert_e  C782571889.0  ...          0.1           4   807.428287
+483    1335  nap_gellert_e  C782574680.0  ...          0.1           4  1022.804220
+
+[484 rows x 12 columns]

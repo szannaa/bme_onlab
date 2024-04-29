@@ -158,16 +158,19 @@ def get_group_by_id(list_of_dfs, desired_id):
 # In[ ]:
 
 
-def main(seed, scale):
-    #print(seed + " " + scale)
-
-
+def main(seed, scale, simulation_folder):
+    
+    seed = sys.argv[1]
+    scale = sys.argv[2]
+    simulation_folder = sys.argv[3]
+    print(seed)
+    print(scale)
+    print(simulation_folder)
+    
     # # XML to df
 
     # In[17]:
-
-
-    base_folder = "C:\\Users\\Admin\\Sumo\\nap_gellert_b"
+    base_folder = "C:\\Users\\Admin\\Sumo\\" + simulation_folder
 
 
     # In[18]:
@@ -385,5 +388,5 @@ def main(seed, scale):
 
 
 if __name__ == "__main__":
-    main(seed = 0, scale = 0)
+    main(seed = 0, scale = 0, simulation_folder = "")
 

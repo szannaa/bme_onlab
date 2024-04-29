@@ -30,7 +30,7 @@ import os
 # In[30]:
 
 
-import math
+import sys
 
 
 # # Functions
@@ -174,8 +174,14 @@ def transform_xml_stops(xml_doc):
 # In[ ]:
 
 
-def main(seed, scale):
-    #print(seed + " " + scale)
+def main(seed, scale, simulation_folder):
+    
+    seed = sys.argv[1]
+    scale = sys.argv[2]
+    simulation_folder = sys.argv[3]
+    print(seed)
+    print(scale)
+    print(simulation_folder)
 
 
     # # XML to df
@@ -183,8 +189,9 @@ def main(seed, scale):
     # In[42]:
 
 
-    base_folder = "C:\\Users\\Admin\\Sumo\\nap_gellert_e"
+    base_folder = "C:\\Users\\Admin\\Sumo\\" + simulation_folder
 
+    print(base_folder)
 
     # In[43]:
 
@@ -368,5 +375,5 @@ def main(seed, scale):
 
 
 if __name__ == "__main__":
-    main( seed = 0 , scale= 0 )
+    main(seed = 0, scale = 0, simulation_folder = "")
 
