@@ -332,7 +332,7 @@ def main(seed, scale):
 
 
     # In[53]:
-
+    new_rows = []
 
     for index, row in result_df.iterrows():
         row_data = {
@@ -349,17 +349,18 @@ def main(seed, scale):
             'numOfStops': row['numOfStops'],
             'emission': row['fuel']
         }
-        temp_df = pd.DataFrame([row_data])
-        #any empty or all-NA columns in tableEmission are excluded before concatenating the DataFrames
-        tableEmission = tableEmission.dropna(axis=1, how='all')
+        new_rows.append(row_data)
+        
+    new_rows_df = pd.DataFrame(new_rows)
+    tableEmission = tableEmission.dropna(axis=1, how='all')
 
-        tableEmission = pd.concat([tableEmission, temp_df], ignore_index=True)
+    tableEmission = pd.concat([tableEmission, new_rows_df], ignore_index=True)
 
 
     # In[54]:
 
 
-    tableEmission.to_csv('batteryData.csv', index=False, sep=';')
+    tableEmission.to_csv('emissionData.csv', index=False, sep=';')
     print(tableEmission)
 
 

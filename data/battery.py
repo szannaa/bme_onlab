@@ -347,8 +347,8 @@ def main(seed, scale):
     # ## Df to csv
 
     # In[30]:
-
-
+    new_rows = []
+	
     for index, row in result_df.iterrows():
         row_data = {
             'routeId': row['routeid'],
@@ -364,25 +364,21 @@ def main(seed, scale):
             'numOfStops': row['numOfStops'],
             'emission': row['battery']
         }
-        temp_df = pd.DataFrame([row_data])
+        new_rows.append(row_data)
+        
         #any empty or all-NA columns in tableBattery are excluded before concatenating the DataFrames
-        tableBattery = tableBattery.dropna(axis=1, how='all')
+        
+    new_rows_df = pd.DataFrame(new_rows)
+    tableBattery = tableBattery.dropna(axis=1, how='all')
 
-        tableBattery = pd.concat([tableBattery, temp_df], ignore_index=True)
+    tableBattery = pd.concat([tableBattery, new_rows_df], ignore_index=True)
 
-
-    # 'id': group_id,
-    #         'avgSpeed': avg_speed,
-    #         'batteryCapacity': energy,
-    #         'timeloss': time_loss,
-    #         'routeLength': route_length,
-    #         'stops': count_stops
 
     # In[31]:
 
 
     tableBattery.to_csv('batteryData.csv', index=False, sep=';')
-#tableBattery
+    print(tableBattery)
 
 
 # In[ ]:
