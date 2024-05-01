@@ -178,7 +178,7 @@ def main(seed, scale, simulation_folder):
 
 
     file_path = os.path.join(base_folder, "emission.out.xml")
-    shutil.copyfile(file_path, f"output\\b_emission_{seed}_{scale}")
+    shutil.copyfile(file_path, f"output\\{simulation_folder}_emission_{seed}_{scale}")
     emission_output = et.parse(file_path)
 
     transform = transform_xml(emission_output.getroot())
@@ -194,7 +194,7 @@ def main(seed, scale, simulation_folder):
 
 
     file_path = os.path.join(base_folder, "Battery.out.xml")
-    shutil.copyfile(file_path, f"output\\b_battery_{seed}_{scale}")
+    shutil.copyfile(file_path, f"output\\{simulation_folder}_battery_{seed}_{scale}")
     
     battery_output = et.parse(file_path)
     battery_output_root = battery_output.getroot()
