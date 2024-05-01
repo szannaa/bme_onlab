@@ -31,6 +31,7 @@ import os
 
 
 import sys
+import shutil
 
 
 # # Functions
@@ -197,6 +198,7 @@ def main(seed, scale, simulation_folder):
 
 
     file_path = os.path.join(base_folder, "emission.out.xml")
+    shutil.copyfile(file_path, f"output\\e_emission_{seed}_{scale}")
     emission_output = et.parse(file_path)
 
     transform = transform_xml(emission_output.getroot())
