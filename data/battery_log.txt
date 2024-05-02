@@ -1,34 +1,85 @@
+3
+0.3
+nap_normafa_b
+     routeId            loc        tripId  ... trafficScale  numOfStops     emission
+0       2400  nap_gellert_b    C6359838.0  ...          0.3           2    69.618208
+1        150  nap_gellert_b    C7246892.0  ...          0.3           2   141.947410
+2        270  nap_gellert_b  C734723628.0  ...          0.3          12  1252.215855
+3       2120  nap_gellert_b  C745091034.0  ...          0.3          11   395.144354
+4       2120  nap_gellert_b   C74509178.0  ...          0.3          11   953.118991
+...      ...            ...           ...  ...          ...         ...          ...
+1036    0110  nap_normafa_b  C778571038.0  ...          0.3           3    20.660860
+1037    1560  nap_normafa_b  C780342186.0  ...          0.3          11   569.391735
+1038    1550  nap_normafa_b  C780342383.0  ...          0.3          17  2306.149791
+1039    1560  nap_normafa_b  C780342867.0  ...          0.3          10  1122.612238
+1040    0050  nap_normafa_b    C7810542.0  ...          0.3           7   661.753598
+
+[1041 rows x 12 columns]
+4
+0.3
+nap_normafa_b
+     routeId            loc        tripId  ... trafficScale  numOfStops     emission
+0       2400  nap_gellert_b    C6359838.0  ...          0.3           2    69.618208
+1        150  nap_gellert_b    C7246892.0  ...          0.3           2   141.947410
+2        270  nap_gellert_b  C734723628.0  ...          0.3          12  1252.215855
+3       2120  nap_gellert_b  C745091034.0  ...          0.3          11   395.144354
+4       2120  nap_gellert_b   C74509178.0  ...          0.3          11   953.118991
+...      ...            ...           ...  ...          ...         ...          ...
+1054    0110  nap_normafa_b  C778571038.0  ...          0.3           3    27.415564
+1055    1560  nap_normafa_b  C780342186.0  ...          0.3          11   546.752107
+1056    1550  nap_normafa_b  C780342383.0  ...          0.3          17  2105.894681
+1057    1560  nap_normafa_b  C780342867.0  ...          0.3          10  1058.516096
+1058    0050  nap_normafa_b    C7810542.0  ...          0.3           7   576.350137
+
+[1059 rows x 12 columns]
+5
+0.3
+nap_normafa_b
+     routeId            loc        tripId  ... trafficScale  numOfStops     emission
+0       2400  nap_gellert_b    C6359838.0  ...          0.3           2    69.618208
+1        150  nap_gellert_b    C7246892.0  ...          0.3           2   141.947410
+2        270  nap_gellert_b  C734723628.0  ...          0.3          12  1252.215855
+3       2120  nap_gellert_b  C745091034.0  ...          0.3          11   395.144354
+4       2120  nap_gellert_b   C74509178.0  ...          0.3          11   953.118991
+...      ...            ...           ...  ...          ...         ...          ...
+1072    0110  nap_normafa_b  C778571038.0  ...          0.3           3    39.742241
+1073    1560  nap_normafa_b  C780342186.0  ...          0.3          11   557.711055
+1074    1550  nap_normafa_b  C780342383.0  ...          0.3          17  2221.287398
+1075    1560  nap_normafa_b  C780342867.0  ...          0.3          10  1007.817789
+1076    0050  nap_normafa_b    C7810542.0  ...          0.3           7   685.181673
+
+[1077 rows x 12 columns]
 6
-0.7
-nap_gellert_b
-    routeId            loc        tripId  ... trafficScale  numOfStops     emission
-0      2400  nap_gellert_b    C6359838.0  ...          0.3           2    69.618208
-1       150  nap_gellert_b    C7246892.0  ...          0.3           2   141.947410
-2       270  nap_gellert_b  C734723628.0  ...          0.3          12  1252.215855
-3      2120  nap_gellert_b  C745091034.0  ...          0.3          11   395.144354
-4      2120  nap_gellert_b   C74509178.0  ...          0.3          11   953.118991
-..      ...            ...           ...  ...          ...         ...          ...
-920    0085  nap_gellert_b    C7824549.0  ...          0.7          18  2506.788878
-921    0085  nap_gellert_b   C78245662.0  ...          0.7          19  1482.409467
-922    0085  nap_gellert_b   C78245897.0  ...          0.7          19  1579.081350
-923    1335  nap_gellert_b  C782571889.0  ...          0.7           4   686.668576
-924    1335  nap_gellert_b  C782574914.0  ...          0.7           4   625.083987
+0.3
+nap_normafa_b
+     routeId            loc        tripId  ... trafficScale  numOfStops     emission
+0       2400  nap_gellert_b    C6359838.0  ...          0.3           2    69.618208
+1        150  nap_gellert_b    C7246892.0  ...          0.3           2   141.947410
+2        270  nap_gellert_b  C734723628.0  ...          0.3          12  1252.215855
+3       2120  nap_gellert_b  C745091034.0  ...          0.3          11   395.144354
+4       2120  nap_gellert_b   C74509178.0  ...          0.3          11   953.118991
+...      ...            ...           ...  ...          ...         ...          ...
+1090    0110  nap_normafa_b  C778571038.0  ...          0.3           3    37.945006
+1091    1560  nap_normafa_b  C780342186.0  ...          0.3          11   572.594297
+1092    1550  nap_normafa_b  C780342383.0  ...          0.3          17  2359.929759
+1093    1560  nap_normafa_b  C780342867.0  ...          0.3          10  1126.289956
+1094    0050  nap_normafa_b    C7810542.0  ...          0.3           7   665.723619
 
-[925 rows x 12 columns]
+[1095 rows x 12 columns]
 7
-0.7
-nap_gellert_b
-    routeId            loc        tripId  ... trafficScale  numOfStops     emission
-0      2400  nap_gellert_b    C6359838.0  ...          0.3           2    69.618208
-1       150  nap_gellert_b    C7246892.0  ...          0.3           2   141.947410
-2       270  nap_gellert_b  C734723628.0  ...          0.3          12  1252.215855
-3      2120  nap_gellert_b  C745091034.0  ...          0.3          11   395.144354
-4      2120  nap_gellert_b   C74509178.0  ...          0.3          11   953.118991
-..      ...            ...           ...  ...          ...         ...          ...
-982    0085  nap_gellert_b    C7824549.0  ...          0.7          18  2281.368683
-983    0085  nap_gellert_b   C78245662.0  ...          0.7          19  1381.804842
-984    0085  nap_gellert_b   C78245897.0  ...          0.7          19  1422.551185
-985    1335  nap_gellert_b  C782571889.0  ...          0.7           4   765.360288
-986    1335  nap_gellert_b  C782574914.0  ...          0.7           4   790.394770
+0.3
+nap_normafa_b
+     routeId            loc        tripId  ... trafficScale  numOfStops     emission
+0       2400  nap_gellert_b    C6359838.0  ...          0.3           2    69.618208
+1        150  nap_gellert_b    C7246892.0  ...          0.3           2   141.947410
+2        270  nap_gellert_b  C734723628.0  ...          0.3          12  1252.215855
+3       2120  nap_gellert_b  C745091034.0  ...          0.3          11   395.144354
+4       2120  nap_gellert_b   C74509178.0  ...          0.3          11   953.118991
+...      ...            ...           ...  ...          ...         ...          ...
+1108    0110  nap_normafa_b  C778571038.0  ...          0.3           3    24.865588
+1109    1560  nap_normafa_b  C780342186.0  ...          0.3          11   583.915046
+1110    1550  nap_normafa_b  C780342383.0  ...          0.3          17  2237.275282
+1111    1560  nap_normafa_b  C780342867.0  ...          0.3          10  1103.466056
+1112    0050  nap_normafa_b    C7810542.0  ...          0.3           7   591.406431
 
-[987 rows x 12 columns]
+[1113 rows x 12 columns]
