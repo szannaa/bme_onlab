@@ -1,270 +1,54 @@
 1
-0.5
-nap_normafa_gyors_e
-C:\Users\Admin\Sumo\nap_normafa_gyors_e
-     routeId                  loc  ... numOfStops     emission
-0       2400        nap_gellert_e  ...          2   267.681119
-1        150        nap_gellert_e  ...          2   222.161497
-2        270        nap_gellert_e  ...         12  1140.608494
-3       2120        nap_gellert_e  ...         11  2167.769607
-4       2120        nap_gellert_e  ...         11  1808.274473
-...      ...                  ...  ...        ...          ...
-1185    2210  nap_normafa_gyors_e  ...         21  3429.809728
-1186    0211  nap_normafa_gyors_e  ...         10  2194.410474
-1187    0211  nap_normafa_gyors_e  ...         10  2167.149010
-1188    2210  nap_normafa_gyors_e  ...         21  3506.746057
-1189    0211  nap_normafa_gyors_e  ...         10  2195.279425
+0.3
+nap_kerepesi_e
+C:\Users\Admin\Sumo\nap_kerepesi_e
+     routeId             loc  ... numOfStops     emission
+0       2400   nap_gellert_e  ...          2   267.681119
+1        150   nap_gellert_e  ...          2   222.161497
+2        270   nap_gellert_e  ...         12  1140.608494
+3       2120   nap_gellert_e  ...         11  2167.769607
+4       2120   nap_gellert_e  ...         11  1808.274473
+...      ...             ...  ...        ...          ...
+1591    0670  nap_kerepesi_e  ...          2   261.031822
+1592    0670  nap_kerepesi_e  ...          2   248.903359
+1593    0920  nap_kerepesi_e  ...         22  3317.980984
+1594    1750  nap_kerepesi_e  ...         10  1058.541851
+1595    1750  nap_kerepesi_e  ...         10  1127.635670
 
-[1190 rows x 12 columns]
-1
-0.7
-nap_normafa_gyors_e
-C:\Users\Admin\Sumo\nap_normafa_gyors_e
-     routeId                  loc  ... numOfStops     emission
-0       2400        nap_gellert_e  ...          2   267.681119
-1        150        nap_gellert_e  ...          2   222.161497
-2        270        nap_gellert_e  ...         12  1140.608494
-3       2120        nap_gellert_e  ...         11  2167.769607
-4       2120        nap_gellert_e  ...         11  1808.274473
-...      ...                  ...  ...        ...          ...
-1206    2210  nap_normafa_gyors_e  ...         21  3469.468589
-1207    0211  nap_normafa_gyors_e  ...         10  2190.454709
-1208    0211  nap_normafa_gyors_e  ...         10  2201.149465
-1209    2210  nap_normafa_gyors_e  ...         21  3341.065014
-1210    0210  nap_normafa_gyors_e  ...         15  2956.633740
-
-[1211 rows x 12 columns]
-1
-1
-nap_normafa_gyors_e
-C:\Users\Admin\Sumo\nap_normafa_gyors_e
-     routeId                  loc  ... numOfStops     emission
-0       2400        nap_gellert_e  ...          2   267.681119
-1        150        nap_gellert_e  ...          2   222.161497
-2        270        nap_gellert_e  ...         12  1140.608494
-3       2120        nap_gellert_e  ...         11  2167.769607
-4       2120        nap_gellert_e  ...         11  1808.274473
-...      ...                  ...  ...        ...          ...
-1240    0211  nap_normafa_gyors_e  ...         10  2195.728567
-1241    2210  nap_normafa_gyors_e  ...         21  3361.328241
-1242    0211  nap_normafa_gyors_e  ...         10  2175.717597
-1243    0210  nap_normafa_gyors_e  ...         15  2957.010092
-1244    0211  nap_normafa_gyors_e  ...         10  2219.243615
-
-[1245 rows x 12 columns]
+[1596 rows x 12 columns]
 2
-0.5
-nap_normafa_gyors_e
-C:\Users\Admin\Sumo\nap_normafa_gyors_e
-     routeId                  loc  ... numOfStops     emission
-0       2400        nap_gellert_e  ...          2   267.681119
-1        150        nap_gellert_e  ...          2   222.161497
-2        270        nap_gellert_e  ...         12  1140.608494
-3       2120        nap_gellert_e  ...         11  2167.769607
-4       2120        nap_gellert_e  ...         11  1808.274473
-...      ...                  ...  ...        ...          ...
-1261    2210  nap_normafa_gyors_e  ...         21  3451.056940
-1262    0211  nap_normafa_gyors_e  ...         10  2183.593783
-1263    0211  nap_normafa_gyors_e  ...         10  2193.227056
-1264    2210  nap_normafa_gyors_e  ...         21  3363.582944
-1265    0211  nap_normafa_gyors_e  ...         10  2153.746171
+0.3
+nap_kerepesi_e
+C:\Users\Admin\Sumo\nap_kerepesi_e
+     routeId             loc  ... numOfStops     emission
+0       2400   nap_gellert_e  ...          2   267.681119
+1        150   nap_gellert_e  ...          2   222.161497
+2        270   nap_gellert_e  ...         12  1140.608494
+3       2120   nap_gellert_e  ...         11  2167.769607
+4       2120   nap_gellert_e  ...         11  1808.274473
+...      ...             ...  ...        ...          ...
+1638    0670  nap_kerepesi_e  ...          2   265.608382
+1639    0670  nap_kerepesi_e  ...          2   257.878597
+1640    0920  nap_kerepesi_e  ...         22  3324.583595
+1641    1750  nap_kerepesi_e  ...         10  1052.546158
+1642    1750  nap_kerepesi_e  ...         10  1113.304637
 
-[1266 rows x 12 columns]
-2
-0.7
-nap_normafa_gyors_e
-C:\Users\Admin\Sumo\nap_normafa_gyors_e
-     routeId                  loc  ... numOfStops     emission
-0       2400        nap_gellert_e  ...          2   267.681119
-1        150        nap_gellert_e  ...          2   222.161497
-2        270        nap_gellert_e  ...         12  1140.608494
-3       2120        nap_gellert_e  ...         11  2167.769607
-4       2120        nap_gellert_e  ...         11  1808.274473
-...      ...                  ...  ...        ...          ...
-1282    2210  nap_normafa_gyors_e  ...         21  3437.215146
-1283    0211  nap_normafa_gyors_e  ...         10  2162.492161
-1284    0211  nap_normafa_gyors_e  ...         10  2186.115557
-1285    2210  nap_normafa_gyors_e  ...         21  3337.451213
-1286    0210  nap_normafa_gyors_e  ...         15  3051.384779
-
-[1287 rows x 12 columns]
-2
-1
-nap_normafa_gyors_e
-C:\Users\Admin\Sumo\nap_normafa_gyors_e
-     routeId                  loc  ... numOfStops     emission
-0       2400        nap_gellert_e  ...          2   267.681119
-1        150        nap_gellert_e  ...          2   222.161497
-2        270        nap_gellert_e  ...         12  1140.608494
-3       2120        nap_gellert_e  ...         11  2167.769607
-4       2120        nap_gellert_e  ...         11  1808.274473
-...      ...                  ...  ...        ...          ...
-1316    0211  nap_normafa_gyors_e  ...         10  2213.126543
-1317    2210  nap_normafa_gyors_e  ...         21  3372.579381
-1318    0211  nap_normafa_gyors_e  ...         10  2177.361794
-1319    0210  nap_normafa_gyors_e  ...         15  3022.588424
-1320    0211  nap_normafa_gyors_e  ...         10  2218.104314
-
-[1321 rows x 12 columns]
+[1643 rows x 12 columns]
 3
-0.5
-nap_normafa_gyors_e
-C:\Users\Admin\Sumo\nap_normafa_gyors_e
-     routeId                  loc  ... numOfStops     emission
-0       2400        nap_gellert_e  ...          2   267.681119
-1        150        nap_gellert_e  ...          2   222.161497
-2        270        nap_gellert_e  ...         12  1140.608494
-3       2120        nap_gellert_e  ...         11  2167.769607
-4       2120        nap_gellert_e  ...         11  1808.274473
-...      ...                  ...  ...        ...          ...
-1337    2210  nap_normafa_gyors_e  ...         21  3468.216503
-1338    0211  nap_normafa_gyors_e  ...         10  2196.018058
-1339    0211  nap_normafa_gyors_e  ...         10  2217.663062
-1340    2210  nap_normafa_gyors_e  ...         21  3373.527165
-1341    0211  nap_normafa_gyors_e  ...         10  2188.075209
+0.3
+nap_kerepesi_e
+C:\Users\Admin\Sumo\nap_kerepesi_e
+     routeId             loc  ... numOfStops     emission
+0       2400   nap_gellert_e  ...          2   267.681119
+1        150   nap_gellert_e  ...          2   222.161497
+2        270   nap_gellert_e  ...         12  1140.608494
+3       2120   nap_gellert_e  ...         11  2167.769607
+4       2120   nap_gellert_e  ...         11  1808.274473
+...      ...             ...  ...        ...          ...
+1685    0670  nap_kerepesi_e  ...          2   265.070995
+1686    0670  nap_kerepesi_e  ...          2   253.089093
+1687    0920  nap_kerepesi_e  ...         22  3331.811618
+1688    1750  nap_kerepesi_e  ...         10  1086.312362
+1689    1750  nap_kerepesi_e  ...         10  1155.166183
 
-[1342 rows x 12 columns]
-3
-0.7
-nap_normafa_gyors_e
-C:\Users\Admin\Sumo\nap_normafa_gyors_e
-     routeId                  loc  ... numOfStops     emission
-0       2400        nap_gellert_e  ...          2   267.681119
-1        150        nap_gellert_e  ...          2   222.161497
-2        270        nap_gellert_e  ...         12  1140.608494
-3       2120        nap_gellert_e  ...         11  2167.769607
-4       2120        nap_gellert_e  ...         11  1808.274473
-...      ...                  ...  ...        ...          ...
-1358    2210  nap_normafa_gyors_e  ...         21  3465.229043
-1359    0211  nap_normafa_gyors_e  ...         10  2179.347368
-1360    0211  nap_normafa_gyors_e  ...         10  2185.628997
-1361    2210  nap_normafa_gyors_e  ...         21  3352.405343
-1362    0210  nap_normafa_gyors_e  ...         15  3030.142495
-
-[1363 rows x 12 columns]
-3
-1
-nap_normafa_gyors_e
-C:\Users\Admin\Sumo\nap_normafa_gyors_e
-     routeId                  loc  ... numOfStops     emission
-0       2400        nap_gellert_e  ...          2   267.681119
-1        150        nap_gellert_e  ...          2   222.161497
-2        270        nap_gellert_e  ...         12  1140.608494
-3       2120        nap_gellert_e  ...         11  2167.769607
-4       2120        nap_gellert_e  ...         11  1808.274473
-...      ...                  ...  ...        ...          ...
-1392    0211  nap_normafa_gyors_e  ...         10  2187.548110
-1393    2210  nap_normafa_gyors_e  ...         21  3337.849017
-1394    0211  nap_normafa_gyors_e  ...         10  2148.071793
-1395    0210  nap_normafa_gyors_e  ...         15  2982.703954
-1396    0211  nap_normafa_gyors_e  ...         10  2203.689917
-
-[1397 rows x 12 columns]
-4
-0.5
-nap_normafa_gyors_e
-C:\Users\Admin\Sumo\nap_normafa_gyors_e
-     routeId                  loc  ... numOfStops     emission
-0       2400        nap_gellert_e  ...          2   267.681119
-1        150        nap_gellert_e  ...          2   222.161497
-2        270        nap_gellert_e  ...         12  1140.608494
-3       2120        nap_gellert_e  ...         11  2167.769607
-4       2120        nap_gellert_e  ...         11  1808.274473
-...      ...                  ...  ...        ...          ...
-1413    2210  nap_normafa_gyors_e  ...         21  3461.135837
-1414    0211  nap_normafa_gyors_e  ...         10  2178.587106
-1415    0211  nap_normafa_gyors_e  ...         10  2201.009790
-1416    2210  nap_normafa_gyors_e  ...         21  3298.689359
-1417    0211  nap_normafa_gyors_e  ...         10  2213.563347
-
-[1418 rows x 12 columns]
-4
-0.7
-nap_normafa_gyors_e
-C:\Users\Admin\Sumo\nap_normafa_gyors_e
-     routeId                  loc  ... numOfStops     emission
-0       2400        nap_gellert_e  ...          2   267.681119
-1        150        nap_gellert_e  ...          2   222.161497
-2        270        nap_gellert_e  ...         12  1140.608494
-3       2120        nap_gellert_e  ...         11  2167.769607
-4       2120        nap_gellert_e  ...         11  1808.274473
-...      ...                  ...  ...        ...          ...
-1434    2210  nap_normafa_gyors_e  ...         21  3427.286180
-1435    0211  nap_normafa_gyors_e  ...         10  2200.967124
-1436    0211  nap_normafa_gyors_e  ...         10  2205.583609
-1437    2210  nap_normafa_gyors_e  ...         21  3361.623498
-1438    0210  nap_normafa_gyors_e  ...         15  2990.757518
-
-[1439 rows x 12 columns]
-4
-1
-nap_normafa_gyors_e
-C:\Users\Admin\Sumo\nap_normafa_gyors_e
-     routeId                  loc  ... numOfStops     emission
-0       2400        nap_gellert_e  ...          2   267.681119
-1        150        nap_gellert_e  ...          2   222.161497
-2        270        nap_gellert_e  ...         12  1140.608494
-3       2120        nap_gellert_e  ...         11  2167.769607
-4       2120        nap_gellert_e  ...         11  1808.274473
-...      ...                  ...  ...        ...          ...
-1468    0211  nap_normafa_gyors_e  ...         10  2152.787435
-1469    2210  nap_normafa_gyors_e  ...         21  3369.743882
-1470    0211  nap_normafa_gyors_e  ...         10  2185.724568
-1471    0210  nap_normafa_gyors_e  ...         15  3023.166936
-1472    0211  nap_normafa_gyors_e  ...         10  2230.489609
-
-[1473 rows x 12 columns]
-5
-0.5
-nap_normafa_gyors_e
-C:\Users\Admin\Sumo\nap_normafa_gyors_e
-     routeId                  loc  ... numOfStops     emission
-0       2400        nap_gellert_e  ...          2   267.681119
-1        150        nap_gellert_e  ...          2   222.161497
-2        270        nap_gellert_e  ...         12  1140.608494
-3       2120        nap_gellert_e  ...         11  2167.769607
-4       2120        nap_gellert_e  ...         11  1808.274473
-...      ...                  ...  ...        ...          ...
-1489    2210  nap_normafa_gyors_e  ...         21  3454.002561
-1490    0211  nap_normafa_gyors_e  ...         10  2239.281198
-1491    0211  nap_normafa_gyors_e  ...         10  2175.312033
-1492    2210  nap_normafa_gyors_e  ...         21  3397.525044
-1493    0211  nap_normafa_gyors_e  ...         10  2182.181233
-
-[1494 rows x 12 columns]
-5
-0.7
-nap_normafa_gyors_e
-C:\Users\Admin\Sumo\nap_normafa_gyors_e
-     routeId                  loc  ... numOfStops     emission
-0       2400        nap_gellert_e  ...          2   267.681119
-1        150        nap_gellert_e  ...          2   222.161497
-2        270        nap_gellert_e  ...         12  1140.608494
-3       2120        nap_gellert_e  ...         11  2167.769607
-4       2120        nap_gellert_e  ...         11  1808.274473
-...      ...                  ...  ...        ...          ...
-1510    2210  nap_normafa_gyors_e  ...         21  3455.198847
-1511    0211  nap_normafa_gyors_e  ...         10  2195.601828
-1512    0211  nap_normafa_gyors_e  ...         10  2174.984263
-1513    2210  nap_normafa_gyors_e  ...         21  3336.193862
-1514    0210  nap_normafa_gyors_e  ...         15  2963.204274
-
-[1515 rows x 12 columns]
-5
-1
-nap_normafa_gyors_e
-C:\Users\Admin\Sumo\nap_normafa_gyors_e
-     routeId                  loc  ... numOfStops     emission
-0       2400        nap_gellert_e  ...          2   267.681119
-1        150        nap_gellert_e  ...          2   222.161497
-2        270        nap_gellert_e  ...         12  1140.608494
-3       2120        nap_gellert_e  ...         11  2167.769607
-4       2120        nap_gellert_e  ...         11  1808.274473
-...      ...                  ...  ...        ...          ...
-1544    0211  nap_normafa_gyors_e  ...         10  2204.557394
-1545    2210  nap_normafa_gyors_e  ...         21  3379.066551
-1546    0211  nap_normafa_gyors_e  ...         10  2178.756388
-1547    0210  nap_normafa_gyors_e  ...         15  3118.404556
-1548    0211  nap_normafa_gyors_e  ...         10  2208.619399
-
-[1549 rows x 12 columns]
+[1690 rows x 12 columns]
